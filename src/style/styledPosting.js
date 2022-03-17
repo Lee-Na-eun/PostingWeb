@@ -87,12 +87,12 @@ export const PostingBoxSecond = styled.li`
 
 export const PostingBoxThird = styled.li`
   display: grid;
-  grid-template-columns: 40px 80px 180px;
+  grid-template-columns: 40px 70px 180px;
   color: gray;
   > div {
     font-size: 14px;
     > p {
-      padding-top: 20px;
+      padding-top: 15px;
     }
     /* margin-left: 10px; */
   }
