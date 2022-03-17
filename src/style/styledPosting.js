@@ -50,6 +50,7 @@ export const PostingBoxFirst = styled.li`
 `;
 
 export const PostingBoxSecond = styled.li`
+  padding-left: 15px;
   > div:nth-child(1) {
     height: 85px;
     > h3 {
